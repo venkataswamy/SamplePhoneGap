@@ -1,0 +1,4 @@
+SamplePhoneGap
+==============
+
+Using aria templates
